@@ -50,7 +50,8 @@ Here's a glimpse into **some of the technologies and tools I've had the pleasure
 
 
 
-**Databases:**
+**Databases:** 
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-47A248?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -58,6 +59,7 @@ Here's a glimpse into **some of the technologies and tools I've had the pleasure
 ![...](https://img.shields.io/badge/...-FFFFFF?style=for-the-badge&logoColor=black)
 
 **Tools & Platforms:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
