@@ -22,6 +22,7 @@ I firmly believe in continuous learning and currently find myself immersed in th
 * **[Database Management Demo]**: An example showing 3 ways to interact with database in Python with some abstraction layer. [Link to Repository](https://github.com/Fillinger66/database_management_demo)
 * **[Immo api]**: Machine learning project using a trained XGBoost model to make real estate price prediction for Belgian country. [Link to Repository](https://github.com/Fillinger66/immo-api)
 * **[Azure Function Demo]** : A simple project showing how to create resources Az Function, Sql Server Database using Infrastructure as Code with bicep [Link to Repository](https://github.com/Fillinger66/azure_fct_demo)
+*  **[Terraform demo on Azure]** Simple project to deploy Azure resources (function, Ms Sql database, ...) and execute some sql script to prepare database. [Link to Repository](https://github.com/Fillinger66/ex_terraform_az_fct_mssql)
 
 ---
 
